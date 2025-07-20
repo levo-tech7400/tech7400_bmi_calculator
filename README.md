@@ -20,3 +20,6 @@ Originally inspired by an open-source template, this version has been **heavily 
 ---
 
 > ⚙️ Developed, customized and deployed as part of TECH7400's showcase projects.
+
+📫 LinkedIn: [Levent E.](https://www.linkedin.com/in/levent-erdost-2b0784201)  
+💻 GitHub: [@levo-tech7400](https://github.com/levo-tech7400)
